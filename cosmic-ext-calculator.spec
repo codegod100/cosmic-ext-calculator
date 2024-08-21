@@ -14,8 +14,8 @@ SourceLicense:  GPL-3.0
 License:        # FIXME
 # LICENSE.dependencies contains a full license breakdown
 
-URL:            # FIXME
-Source:         # FIXME
+URL:            https://github.com/codegod100/cosmic-ext-calculator
+Source:         https://github.com/codegod100/cosmic-ext-calculator
 
 BuildRequires:  cargo-rpm-macros >= 26
 
